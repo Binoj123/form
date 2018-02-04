@@ -1,0 +1,26 @@
+header{
+  margin-top: 50px;
+}
+.gap{
+  margin-top: 50px;
+}
+body{
+  font-family: 'Roboto', serif;
+  background-color: #DCDCDC;
+}
+.btn-block{
+  margin-top: 20px;
+
+}
+.sbut input{
+  background-color: gray;
+  color: white;
+  transition: ease-in .3s;
+  margin-top: 20px;
+
+}
+.sbut input:hover{
+  background-color: white;
+  color: black;
+
+}
